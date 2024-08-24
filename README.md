@@ -1,6 +1,6 @@
 [![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUH7ZjMdWxblQXkgmQZ1xyt0H6-flqhZeHzg&s)
 <h1 align="center">Hi 👋, I'm Shivnarayan Andhare</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India...</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?t=st=1724237239~exp=1724240839~hmac=8e8dda20c89ae64e5a2a9dc803fa9e7a2b3ec40cad5864953710b4ab045beaa6&w=740">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivnarayan07&label=Profile%20views&color=0e75b6&style=flat" alt="shivnarayan07" /> </p>
